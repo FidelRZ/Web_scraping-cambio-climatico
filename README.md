@@ -1,7 +1,7 @@
 # Práctica 1: Web scraping cambio climático
 ## Descripción
 
-En esta práctica se aplican técnicas de _web scraping_ utiliznado el lenguaje Python, para extraer datos de _Cambio Climático_ generando un data set con información relevante. Esta pr´catica se desarrolló como parte de la asignatura _Tipología y ciclo de vida de los datos_, del **Máster en Ciencia de Datos de la Universitat Oberta de Catalunya**. En ella, se aplican técnicas de _web scraping_ mediante el lenguaje de programación Python para extraer así datos de la web _PlaneCrashInfo_ y generar un _dataset_.
+En esta práctica se aplican técnicas de _web scraping_ utilizando el lenguaje Python, para extraer datos de _Cambio Climático_ generando un data set con información relevante. Esta pr´catica se desarrolló como parte de la asignatura _Tipología y ciclo de vida de los datos_, del **Máster en Ciencia de Datos de la Universitat Oberta de Catalunya**. En ella, se aplican técnicas de _web scraping_ mediante el lenguaje de programación Python para extraer así datos de la web _PlaneCrashInfo_ y generar un _dataset_.
 
 ## Miembros del equipo
 
