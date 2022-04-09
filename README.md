@@ -10,9 +10,9 @@ Esta actividad es Pressentada por:
 * **Fidel Romero Zegarra**.
 
 ## Ficheros del código fuente
-**Metano_webscraping.ipynb:** Contiene el código en Python para la extracción de datos de emisión de Metano. Se utlizan las librerias request y BeautifulSoup
-**WebScrapingCO2**: Contiene el código en Python para la extracción de datos de emisión de CO2 desde el año 2001 hasta el año 2020. Se utliza la herramienta Selenium para cerrar ventanas emergentes de cookies y publicidad y permitir la navegación para obtener la información de los diferentes años.
-**WebScrapingGrafico**: Contiene el código en Python para la extracción de datos del Índice de Riesgo Climático. Se utiliza la herramienta Selenium para simular la navegación en un gráfico que es la fuente de los datos a extraer.
+* **Metano_webscraping.ipynb:** Contiene el código en Python para la extracción de datos de emisión de Metano. Se utlizan las librerias request y BeautifulSoup
+* **WebScrapingCO2**: Contiene el código en Python para la extracción de datos de emisión de CO2 desde el año 2001 hasta el año 2020. Se utliza la herramienta Selenium para cerrar ventanas emergentes de cookies y publicidad y permitir la navegación para obtener la información de los diferentes años.
+* **WebScrapingGrafico**: Contiene el código en Python para la extracción de datos del Índice de Riesgo Climático. Se utiliza la herramienta Selenium para simular la navegación en un gráfico que es la fuente de los datos a extraer.
 
 ## Recursos
 
