@@ -14,6 +14,10 @@ Esta actividad es Pressentada por:
 * **WebScrapingCO2.ipynb**: Contiene el código en Python para la extracción de datos de emisión de CO2 desde el año 2001 hasta el año 2020. Se utliza la herramienta Selenium para cerrar ventanas emergentes de cookies y publicidad y permitir la navegación para obtener la información de los diferentes años.
 * **WebScrapingGrafico.ipynb**: Contiene el código en Python para la extracción de datos del Índice de Riesgo Climático. Se utiliza la herramienta Selenium para simular la navegación en un gráfico que es la fuente de los datos a extraer.
 
+## DOI de publicación en Zenodo
+* **DOI:** 10.5281/zenodo.6426553
+* **URL:** https://doi.org/10.5281/zenodo.6426553
+
 ## Recursos
 
 1. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
